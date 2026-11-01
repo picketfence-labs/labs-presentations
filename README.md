@@ -1,2 +1,3 @@
-# labs-presentations
-Original HTML presentations for Picketfence Labs events
+# Picketfence Labs presentations
+
+Original HTML slide files live in `presentations/<event>/`. The public site is [Picketfence Labs Presentations](https://picketfence-labs.github.io/presentations/).
